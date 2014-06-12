@@ -1,5 +1,5 @@
 {
-    "name": "jomedia/business-rule-engine",
+    "name": "mpoiriert/business-rule-engine",
     "type": "library",
     "minimum-stability": "dev",
     "description": "Reusable library",
@@ -18,7 +18,7 @@
         "phpunit/phpunit": "3.7.*"
     },
     "require": {
-        "jomedia/invoker": "*",
+        "mpoiriert/invoker": "*",
         "symfony/yaml": "*",
         "psr/log": "*"
     },
